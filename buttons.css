@@ -1,0 +1,42 @@
+/* 
+
+	BUTTONS.CSS
+	Oliver Pope
+	
+*/
+
+/* GLOBAL */
+.btn { display: inline-block; margin: .2em; }
+.btn:hover { text-decoration: none; }
+
+/* INDUSTRIAL */
+a[class*="industrial"], button[class*="industrial"] { padding: 1em; border: 2px solid; border-radius: 2px; -webkit-border-radius: 2px; font-weight: 500; transition: .5s background; -webkit-transition: .5s background; }
+.industrial-red { color: #FF5749; border-color: #FF5749; }
+.industrial-blue { color: #338FFB; border-color: #338FFB; }
+.industrial-green { color: #11CD29; border-color: #11CD29; }
+.industrial-black { color: #11100F; border-color: #11100F; }
+a[class*="industrial"]:hover, button[class*="industrial"]:hover { color: #fff; }
+.industrial-red:hover { background: #FF5749; border-color: #FF5749; }
+.industrial-blue:hover { background: #338FFB; border-color: #338FFB; }
+.industrial-green:hover { background: #11CD29; border-color: #11CD29; }
+.industrial-black:hover { background: #11100F; border-color: #11100F; }
+
+/* YOSEMITE */
+a[class*="yosemite"], button[class*="yosemite"] { padding: 1em 1.3em; border-radius: 8px; -webkit-border-radius: 8px; color: #fff; font-weight: 500; transition: .5s all; -webkit-transition: .5s all; }
+.yosemite-red { background: #FF5749; border: 2px solid #B41814; }
+.yosemite-yellow { background: #EED15A; border: 2px solid #BDA02E; }
+.yosemite-green { background: #11CD29; border: 2px solid #4D8B2A; }
+.yosemite-gray { background: #CECECE; border: 2px solid #666666; color: #666666 !important; }
+a[class*="yosemite"]:hover, button[class*="yosemite"]:hover { background: #fff; color: #666666 !important; }
+
+/* UPPERCASED */
+a[class*="uppercased"], button[class*="uppercased"] { padding: 1em; font-weight: 500; text-transform: uppercase; border-radius: 2px; -webkit-border-radius: 2px; transition: .5s all; -webkit-transition: .5s all; }
+.uppercased-red { background: #FF5749; border: 2px solid #FF5749; color: #fff; }
+.uppercased-blue { background: #338FFB; border: 2px solid #338FFB; color: #fff; }
+.uppercased-green { background: #11CD29; border: 2px solid #11CD29; color: #fff; }
+.uppercased-black { background: #11100F; border: 2px solid #11100F; color: #fff; }
+a[class*="uppercased"]:hover, button[class*="uppercased"]:hover { background: #fff; }
+.uppercased-red:hover { color: #FF5749; border-color: #FF5749; }
+.uppercased-blue:hover { color: #338FFB; border-color: #338FFB; }
+.uppercased-green:hover { color: #11CD29; border-color: #11CD29; }
+.uppercased-black:hover { color: #11100F; border-color: #11100F; }

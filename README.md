@@ -1,4 +1,4 @@
 buttons
 =======
 
-A set of fun an unique buttons
+A set of fun, unique buttons
