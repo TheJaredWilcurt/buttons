@@ -6,7 +6,7 @@
 */
 
 /* COMMON */
-html { font: 400 1em "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; color: #11100F; }
+html { font: 400 1em "Helvetica Neue", "Roboto", sans-serif; margin: 0; color: #11100F; }
 body { margin: 0; }
 h1, h2, h3, h4, h5, h6, b, strong { font-weight: 500; }
 h3 { font-size: 1.3em; padding: 1em 0; }
