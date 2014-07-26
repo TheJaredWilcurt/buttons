@@ -40,3 +40,14 @@ a[class*="uppercased"]:hover, button[class*="uppercased"]:hover { background: #f
 .uppercased-blue:hover { color: #338FFB; border-color: #338FFB; }
 .uppercased-green:hover { color: #11CD29; border-color: #11CD29; }
 .uppercased-black:hover { color: #11100F; border-color: #11100F; }
+
+/* SHADOWED */
+a[class*="shadowed"], button[class*="shadowed"] { padding: 1em; font-weight: 500; transition: .5s all; -webkit-transition: .5s all; }
+.shadowed-red { background: #FF5749; border: 2px solid #FF5749; color: #fff; }
+.shadowed-blue { background: #338FFB; border: 2px solid #338FFB; color: #fff; }
+.shadowed-green { background: #11CD29; border: 2px solid #11CD29; color: #fff; }
+.shadowed-black { background: #11100F; border: 2px solid #11100F; color: #fff; }
+.shadowed-red:hover { box-shadow: 0 0 0 5px #FF5749; }
+.shadowed-blue:hover { box-shadow: 0 0 0 5px #338FFB; }
+.shadowed-green:hover { box-shadow: 0 0 0 5px #11CD29; }
+.shadowed-black:hover { box-shadow: 0 0 0 5px #11100F; }
