@@ -23,3 +23,5 @@ header { background: #FAE9C3; padding: 4em 5%; }
 
 /* FOOTER */
 footer { padding: 4em 5%; margin: 0; }
+.twitter { display: inline-block; }
+.code { padding: 0 .5em; display: inline-block; color: #4E4E4E; }
