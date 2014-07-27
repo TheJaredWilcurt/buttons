@@ -1,6 +1,6 @@
 {
   "name": "buttons.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "buttons.min.css",
   "author": "Oliver Pope",
   "ignore": [
@@ -21,7 +21,8 @@
   ],
   "description": "lots of fun buttons",
   "moduleType": [
-    "globals"
+    "globals",
+    "yui"
   ],
   "keywords": [
     "buttons",

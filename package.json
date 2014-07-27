@@ -1,27 +1,18 @@
 {
   "name": "buttons.css",
-  "version": "1.0.0",
-  "description": "buttons as a node packaged module",
-  "style": "buttons.min.css",
+  "version": "1.0.1",
+  "description": "cool buttons for your site",
   "files": [
-    "buttons.min.css",
-    "component.json"
+	  "buttons.min.css"
   ],
-  "homepage": "https://owebboy.com/buttons",
   "repository": {
     "type": "git",
     "url": "https://github.com/owebboy/buttons.git"
   },
-  "author": "Oliver Pope",
+  "author": "Oliver Pope <o@owebboy.com> (https://owebboy.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/owebboy/buttons/issues"
   },
-  "npmName": "buttons.css",
-  "npmFileMap": [{
-    "basePath": "/",
-    "files": [
-      "buttons.min.css"
-    ]
-  }],
+  "homepage": "https://github.com/owebboy/buttons"
 }
