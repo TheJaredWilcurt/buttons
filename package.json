@@ -1,9 +1,9 @@
 {
   "name": "buttons.css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "cool buttons for your site",
   "files": [
-	  "buttons.min.css"
+    "buttons.min.css"
   ],
   "repository": {
     "type": "git",

@@ -14,3 +14,4 @@ Buttons is a set of unique CSS buttons that add a bit of pizzaz to your site or 
 - Fancy
 - Sleek
 - Shadow
+- Glass
