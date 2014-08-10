@@ -1,6 +1,6 @@
 {
   "name": "buttons.css",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "cool buttons for your site",
   "files": [
     "buttons.min.css"
